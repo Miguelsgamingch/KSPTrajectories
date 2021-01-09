@@ -11,6 +11,8 @@ It is possible to configure a descent profile for space planes, so that you can 
 
 The mod can also help reaching a precise location on any celestial body. Even when there is no atmosphere, the original game does not display where you'll arrive according to the body rotation. This mod adds a small cross on the body showing you're estimated impact location.
 
+Original Mod By neuoy, Forked For 1.11 Compatibility.
+
 ----
 
 Features
@@ -60,7 +62,7 @@ Requirements
 Installation
 ------------
 
-- Download Trajectories.zip from the latest release (https://github.com/neuoy/KSPTrajectories/releases)
+- Download Trajectories.zip from the latest release (https://github.com/Miguelsgamingch/KSPTrajectories1.11/releases)
 - Unzip the contents into your GameData folder.
 - Don't forget that Trajectories requires ModuleManager to also be installed.
 
